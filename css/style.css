@@ -1,0 +1,84 @@
+body {
+    font-family: 'Arima', cursive;
+    margin: 0px;
+    padding: 5%;
+    background-image: linear-gradient(rgb(209, 205, 205), rgba(0, 0, 0, 0.849));
+}
+
+section {
+    display: flex;
+    background-color: rgb(226, 220, 220);
+    border-radius: 20px;
+    margin-bottom: 30px;
+
+
+}
+
+.half-width {
+    width: 50%;
+
+}
+
+.skip {
+    padding: 8px;
+    font-size: 48px;
+    color: rgb(52, 56, 56);
+}
+
+span {
+    color: orange;
+
+}
+
+.text {
+    padding: 8px;
+    font-size: 19px;
+    color: rgb(47, 48, 48);
+    text-align: center;
+    text-align: justify;
+
+}
+
+.botton {
+    background-image: linear-gradient(orange, red);
+    padding: 6px 20px;
+    font-size: 19px;
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    font-family: ursive;
+    border-radius: 10px;
+
+}
+
+#about-me {
+    background-image: url(../images/shapes/7.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+
+
+.my-recipes {
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
+
+.photo {
+
+    width: 80%;
+    padding: 5%;
+    padding-right: 5%;
+    border-radius: 10px;
+}
+
+.like {
+    text-align: center;
+    width: 100%;
+}
+
+.ft {
+    text-align: center;
+    color: white;
+}
